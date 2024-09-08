@@ -55,9 +55,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  Instagram        : "https://www.instagram.com/neuro_didi/"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/didi-ramsaran-chin-5855a51a0/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username
+  twitter          : "https://twitter.com/neuro_didi"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
