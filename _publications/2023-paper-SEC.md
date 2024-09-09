@@ -1,13 +1,14 @@
 ---
-title: "Exposure to explicit sexual content in the couple relationship: A values-based analysis"
+title: "Paper Title Number 1"
 collection: publications
 category: manuscripts
-permalink: publication/2023-paper-SEC
-excerpt: 'The representation of couple relationships is present in the entertainment media through Sexually Explicit Content (SEC) material. Based on the Functionalist Theory of Human Values by Gouveia et al. (2010), under a post-positivist paradigm, a transcendental phenomenological qualitative methodology was used with the technique of thematic analysis and thematic maps. The general objective was to find out, among Venezuelan and Spanish women, their experience of exposure to SEC in the television media and the role of the values attributed to it in their relationships. The participants were two Spanish and three Venezuelan women between 18 and 25 years of age who watched the Netflix series "Élite" and had a partner during the interview. A group interview was conducted for each nationality group. The results show that both groups consider social interactive values important in their relationship, show negative evaluations of the SEC of Élite and the evaluations of SEC seem to differ in their relationships with the reported values; differences between Venezuelan and Spanish groups can also be seen. It can be concluded that Spanish women report more values with behavioural connotations (communication and loyalty) than Venezuelan women, and both groups report values with affective implications (love and respect). Although the two groups report that exposure to Elite SEC did not imply changes in their values, their judgements of SEC were different, as Spaniards seem to judge it in terms of interactive social values, while Venezuelans show a possible use of normative social values.'
-date: 2023
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
 venue: 'Journal 1'
-paperurl: 'https://revistasenlinea.saber.ucab.edu.ve/index.php/analogias/article/view/5952'
-citation: 'Ramsaran, D., Zambrano, J., Berenguer, M., Salgueiro, L., & Obispo, B. (2023). Exposure to explicit sexual content in the couple relationship: A values-based analysis. <i>Analogías Del Comportamiento</i>, (22). https://revistasenlinea.saber.ucab.edu.ve/index.php/analogias/article/view/5952'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
