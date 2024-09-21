@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an aspiring computational cognitive neuroscientist. During my undergrad, I especially liked memory, intelligence and language. in the middle of the pandemic, I found out you could develop computational models of cognitive phenomena while accounting for their neural correlates. This motivated me to explore fields such as computational cognitive neuroscience, computational cognitive science and Machine Learning. 
+I'm an aspiring computational cognitive neuroscientist. During my undergrad, I was especially intrigued by theories of memory, intelligence and language. In the middle of the pandemic, I found out you could develop computational models of cognitive phenomena while accounting for their neural correlates. This motivated me to explore fields such as computational cognitive neuroscience, computational cognitive science and Machine Learning. 
 
 I'm currently on the lookout for research assistant positions (remote position included). In the meanwhile, I work in industry and volunteer to help in courses such as Psychology of Memory and Intelligence, and Cognitive Neuroscience and Neuropsychology, at [UCAB](https://www.ucab.edu.ve/)'s  School of Psychology, where I studied for my BSc in Psychology. I'm actively working on independent projects to develop skills for future research positions and grad school programs.
 
