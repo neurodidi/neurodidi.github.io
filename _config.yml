@@ -26,7 +26,7 @@ author:
   image_authorship : "Illustration by my friend Arantxa :)"
   pronouns         : "she/they"  
   bio              : "BSc in Psychology"
-  location         : "Ccs, Vzla"
+  # location         : "Ccs, Vzla"
   employer         : "Unaffiliated"
   uri              : # URL
   email            : "didiramsaranchin@gmail.com" 
