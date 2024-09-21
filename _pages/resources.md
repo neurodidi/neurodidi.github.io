@@ -26,6 +26,7 @@ Learning and training
 ======
 * At the [INCF training space](https://training.incf.org/) you can find several resources for open science, computational neuroscience and neuroinformatics, coding, neuroethics, and many others, for free!
 * At [Neuromatch](https://neuromatch.io/), you can take their yearly courses in computational methods for different disciplines: climate science, machine learning, computational neuroscience, and neuroAI. Additionally, their resources are open-access and completely free for you to use or teach in your classes.
+* At [Humai](https://humai.com.ar/) Spanish resources and courses to get into data analysis, ML and applications to Neuroscience and Psyhcology. They can work with you to weight both your current knowledge and goals, and have different courses and career tracks that you can enrol according to your needs. Plus, they are very active, give away scholarships and offer reduced prices if you show financial needs.
 
 Graduate School applications
 ======
