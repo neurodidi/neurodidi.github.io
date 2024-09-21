@@ -14,7 +14,7 @@ I have gathered some resources I found as I looked for learning opportunities, p
 Organizations and memberships
 ======
 * International Neuroinformatics Coordinating Facility (INCF): [Link](https://www.incf.org/)
-*   The INCF also has training and learning resources you can access for free at [INCF training space]([url](https://training.incf.org/)
+*   The INCF also has training and learning resources you can access for free at [INCF training space]([url](https://training.incf.org/))
 * Cognitive Science Organization (CSS): [Link](https://cognitivesciencesociety.org/)
 * Organization for Computational Neuroscience (OCNS): [Link](https://www.cnsorg.org/)
 * Cognitive Neuroscience Society (CNS): [Link](https://www.cogneurosociety.org/)
