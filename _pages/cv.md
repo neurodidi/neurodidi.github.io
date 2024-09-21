@@ -12,5 +12,40 @@ redirect_from:
 Academic CV
 ======
 * English CV: [Link](url)
-* Spanish CV: [Link](url)
+* Spanish CV: [Link](URL)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
