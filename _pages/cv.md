@@ -14,6 +14,9 @@ Academic CV
 * English CV: [Link](url)
 * Spanish CV: [Link](URL)
 <br/>
+<br/>
+<br/>
+<br/>
 🌳🌳🌳
 <br/>
 🍃
@@ -32,7 +35,6 @@ Academic CV
 <br/>
 <br/>
      🍃
-  🍃
 <br/>
 <br/>
 <br/>
