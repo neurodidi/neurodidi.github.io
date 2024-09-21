@@ -30,3 +30,12 @@ Learning and training
 Graduate School applications
 ======
 * Go to [Lucy Lai](https://lucylai.com/), PhD website for an easy-going introduction and guide for PhD applications in the US.
+
+Science communicators and academic influencers (mainly in Neuro)
+======
+I believe following people inside academia can help you get an idea of what it is about. Both the excitement of their research and their posts discussing some of its downsides, I suggest you have a look at them.
+* Lindsay Ejoh, BSc, [@neuro_melody](https://www.instagram.com/neuro_melody/) at IG
+* Daniel Toker, PhD, [@the_brain_scientist](https://www.instagram.com/the_brain_scientist/) at IG and his [personal website](https://thebrainscientist.com/)
+* Ludmila Kucikova, MScR [@computational_neuroscientist](https://www.instagram.com/computational_neuroscientist/) at IG.
+* Lucy Lai, PhD, [@drlucylai](https://www.instagram.com/drlucylai/) at IG and her [personal website](https://lucylai.com/)
+
