@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+I have gathered some resources I found as I looked for learning opportunities, please feel free to look at them or message me if you find another one I should add.
+
 Organizations and memberships
 ======
 * International Neuroinformatics Coordinating Facility (INCF): [Link](https://www.incf.org/)
