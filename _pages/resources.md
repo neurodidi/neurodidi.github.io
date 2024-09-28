@@ -26,7 +26,7 @@ Learning and training
 ======
 * At the [INCF training space](https://training.incf.org/) you can find several resources for open science, computational neuroscience and neuroinformatics, coding, neuroethics, and many others, for free!
 * At [Neuromatch](https://neuromatch.io/), you can take their yearly courses in computational methods for different disciplines: climate science, machine learning, computational neuroscience, and neuroAI. Additionally, their resources are open-access and completely free for you to use or teach in your classes.
-* At [Humai](https://humai.com.ar/) Spanish resources and courses to get into data analysis, ML and applications to Neuroscience and Psyhcology. They can work with you to weight both your current knowledge and goals, and have different courses and career tracks that you can enrol according to your needs. Plus, they are very active, give away scholarships and offer reduced prices if you show financial needs.
+* At [Humai](https://humai.com.ar/), you can find Spanish resources and courses in data analysis, ML and applications to Neuroscience and Psychology. They can work with you to weigh both your current knowledge and goals, and have different courses and career tracks that you can enrol in according to your needs. Plus, they are very active, give away scholarships and offer reduced prices if you show financial needs.
 
 Graduate School applications
 ======
@@ -35,8 +35,10 @@ Graduate School applications
 Science communicators and academic influencers (mainly in Neuro)
 ======
 I believe following people inside academia can help you get an idea of what it is about. Both the excitement of their research and their posts discussing some of its downsides, I suggest you have a look at them.
-* Lindsay Ejoh, BSc, [@neuro_melody](https://www.instagram.com/neuro_melody/) at IG
-* Daniel Toker, PhD, [@the_brain_scientist](https://www.instagram.com/the_brain_scientist/) at IG and his [personal website](https://thebrainscientist.com/)
+* Ieva Andrulytė, MSc, [andrulyte](https://www.instagram.com/andrulyte/) at IG.
+* Daniel Toker, PhD, [@the_brain_scientist](https://www.instagram.com/the_brain_scientist/) at IG and his [personal website](https://thebrainscientist.com/).
+* Lindsay Ejoh, BSc, [@neuro_melody](https://www.instagram.com/neuro_melody/) at IG.
+* Lucy Lai, PhD, [@drlucylai](https://www.instagram.com/drlucylai/) at IG and her [personal website](https://lucylai.com/).
 * Ludmila Kucikova, MScR [@computational_neuroscientist](https://www.instagram.com/computational_neuroscientist/) at IG.
-* Lucy Lai, PhD, [@drlucylai](https://www.instagram.com/drlucylai/) at IG and her [personal website](https://lucylai.com/)
+
 
