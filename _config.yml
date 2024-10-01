@@ -9,6 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Didi's sensational website"
+subtitle                 : "a place in which I share my personal, professional and academic interests :)"
 title_separator          : "-"
 name                     : &name "Didi Ramsaran Chin"
 description              : &description "a place in which I share my personal, professional and academic interests :)"
