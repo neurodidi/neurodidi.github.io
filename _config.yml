@@ -127,8 +127,8 @@ lunr:
   search_within_pages: true
   search_full_content: true
 
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "dark"
+# theme: minimal-mistakes-jekyll
+# minimal_mistakes_skin: "dark"
 
 # SEO Related
 google_site_verification : "uyPzB2RdmgcIpWW5htco4tTb1OsR-d21eYmWdrqOyz4"
