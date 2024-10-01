@@ -43,7 +43,6 @@ Following people inside academia can help you understand what it is about. I sug
 
 Books, papers and other sources of fun!
 ======
-2. Friedenberg, J., Silverman, G., & Spivey, M. J. (2021). _Cognitive Science: An Introduction to the Study of Mind_ (4th ed.). Sage Publications, Incorporated.
+1. Friedenberg, J., Silverman, G., & Spivey, M. J. (2021). _Cognitive Science: An Introduction to the Study of Mind_ (4th ed.). Sage Publications, Incorporated.
 2. Sun, R. (Ed.). (2023). _The Cambridge Handbook of Computational Cognitive Sciences_ (2nd ed.). Cambridge University Press.
-3. Trappenberg, T. (2023), _Fundamentals of Computational Neuroscience_ {3rd ed{}. Oxford Academic, [https://doi.org/10.1093/oso/9780192869364.001.0001](https://doi.org/10.1093/oso/9780192869364.001.0001)
-4. 
+3. Trappenberg, T. (2023). _Fundamentals of Computational Neuroscience_ (3rd ed). Oxford Academic, [https://doi.org/10.1093/oso/9780192869364.001.0001](https://doi.org/10.1093/oso/9780192869364.001.0001)
