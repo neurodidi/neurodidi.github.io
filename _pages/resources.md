@@ -34,11 +34,16 @@ Graduate School applications
 
 Science communicators and academic influencers (mainly in Neuro)
 ======
-I believe following people inside academia can help you get an idea of what it is about. Both the excitement of their research and their posts discussing some of its downsides, I suggest you have a look at them.
+Following people inside academia can help you understand what it is about. I suggest you have a look at them, both because of the excitement of their research and because their posts discuss some of their downsides.
 * Ieva Andrulytė, MSc, [andrulyte](https://www.instagram.com/andrulyte/) at IG.
 * Daniel Toker, PhD, [@the_brain_scientist](https://www.instagram.com/the_brain_scientist/) at IG and his [personal website](https://thebrainscientist.com/).
 * Lindsay Ejoh, BSc, [@neuro_melody](https://www.instagram.com/neuro_melody/) at IG.
 * Lucy Lai, PhD, [@drlucylai](https://www.instagram.com/drlucylai/) at IG and her [personal website](https://lucylai.com/).
 * Ludmila Kucikova, MScR [@computational_neuroscientist](https://www.instagram.com/computational_neuroscientist/) at IG.
 
-
+Books, papers and other sources of fun!
+======
+2. Friedenberg, J., Silverman, G., & Spivey, M. J. (2021). _Cognitive Science: An Introduction to the Study of Mind_ (4th ed.). Sage Publications, Incorporated.
+2. Sun, R. (Ed.). (2023). _The Cambridge Handbook of Computational Cognitive Sciences_ (2nd ed.). Cambridge University Press.
+3. Trappenberg, T. (2023), _Fundamentals of Computational Neuroscience_ {3rd ed{}. Oxford Academic, [https://doi.org/10.1093/oso/9780192869364.001.0001](https://doi.org/10.1093/oso/9780192869364.001.0001)
+4. 
