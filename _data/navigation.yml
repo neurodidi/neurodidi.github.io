@@ -5,6 +5,12 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "The Daily Cognizant: a blog"
+    url: /year-archive/
+    
+  - title: "CV"
+    url: /cv/
+    
   - title: "Publications"
     url: /publications/
 
@@ -16,12 +22,6 @@ main:
     
  # - title: "Portfolio"
  #   url: /portfolio/
-        
-  - title: "The Daily Cognizant: a blog"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
 
   - title: "Resources"
     url: /resources/
