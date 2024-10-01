@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Didi's website"
+title                    : "Didi's website | a place in which I share my personal, professional and academic interests"
 title_separator          : "-"
 name                     : &name "Didi Ramsaran Chin"
 description              : &description "personal description"
