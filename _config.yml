@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Didi's website - a place in which I share my personal, professional and academic interests"
-title_separator          : "|"
+title                    : "Didi's website, a place in which I share my personal, professional and academic interests :)"
+title_separator          : "-"
 name                     : &name "Didi Ramsaran Chin"
 description              : &description "personal description"
 url                      : https://neurodidi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
