@@ -8,9 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Academic CV
-======
+<br/>
+<br/>
 * English CV: updated for <a href="/files/Oct2024_Didi_Academic%20_CV.pdf" target="_blank">October 2024</a>
 <br/>
 <br/>
