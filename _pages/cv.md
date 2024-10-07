@@ -11,7 +11,7 @@ redirect_from:
 
 Academic CV
 ======
-* English CV: [Link](url)
+* English CV: updated for [October 2024](files/Oct2024_Didi_Academic _CV.pdf)
 * Spanish CV: [Link](URL)
 <br/>
 <br/>
