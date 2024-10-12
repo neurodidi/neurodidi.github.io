@@ -47,20 +47,27 @@ Following people inside academia can help you understand what it is about. I sug
 * Lucy Lai, PhD, [@drlucylai](https://www.instagram.com/drlucylai/) at IG and her [personal website](https://lucylai.com/).
 * Ludmila Kucikova, MScR [@computational_neuroscientist](https://www.instagram.com/computational_neuroscientist/) at IG.
 
-Books, papers and other sources of fun!
+Books, papers and other sources of fun and reflection!
 ===
 ### Books
-  1. Friedenberg, J., Silverman, G., & Spivey, M. J. (2021). _Cognitive Science: An Introduction to the Study of Mind_ (4th ed.). Sage Publications, Incorporated.
-  2. Sun, R. (Ed.). (2023). _The Cambridge Handbook of Computational Cognitive Sciences_ (2nd ed.). Cambridge University Press.
-  3. Trappenberg, T. (2023). _Fundamentals of Computational Neuroscience_ (3rd ed). Oxford Academic, [https://doi.org/10.1093/oso/9780192869364.001.0001](https://doi.org/10.1093/oso/9780192869364.001.0001)
+* Friedenberg, J., Silverman, G., & Spivey, M. J. (2021). _Cognitive Science: An Introduction to the Study of Mind_ (4th ed.). Sage Publications, Incorporated.
+* Sun, R. (Ed.). (2023). _The Cambridge Handbook of Computational Cognitive Sciences_ (2nd ed.). Cambridge University Press.
+* Trappenberg, T. (2023). _Fundamentals of Computational Neuroscience_ (3rd ed). Oxford Academic, [https://doi.org/10.1093/oso/9780192869364.001.0001](https://doi.org/10.1093/oso/9780192869364.001.0001)
 
 ### SciComm books
 * Lindsay, G. (2021). Models of the Mind: How Physics, Engineering and Mathematics Have Shaped Our Understanding of the Brain. Bloomsbury. https://www.bloomsbury.com/us/models-of-the-mind-9781472966438/
+* Narayanan, A., & Kapoor, S. (2024). AI Snake Oil: What Artificial Intelligence Can Do, What It Can’t, and How to Tell the Difference. Princeton University Press.
 
 ### Papers
-  1. Machlovi, S., Pero, A., Ng, S., Zhong, M., & Cai, D. (2020). Women in neuroscience: Where are we in 2019? Journal of Neuroscience Research, 99(1), 9–12. https://doi.org/10.1002/jnr.24570
+* Aghi, K., Anderson, B. M., Castellano, B. M., Cunningham, A., Delano, M., Dickinson, E. S., Von Diezmann, L., Forslund-Startceva, S. K., Grijseels, D. M., Groh, S. S., Guthman, E. M., Jayasinghe, I., Johnston, J., Long, S., McLaughlin, J. F., McLaughlin, M., Miyagi, M., Rajaraman, B., Sancheznieto, F., . . . Weinberg, Z. Y. (2024). Rigorous science demands support of transgender scientists. Cell, 187(6), 1327–1334. https://doi.org/10.1016/j.cell.2024.02.021
+* Machlovi, S., Pero, A., Ng, S., Zhong, M., & Cai, D. (2020). Women in neuroscience: Where are we in 2019? Journal of Neuroscience Research, 99(1), 9–12. https://doi.org/10.1002/jnr.24570
+* Moreno, J. A., Manca, R., Nel, J. A., Spantidakis, I., Venter, Z., & Juster, R. (2024). A brief historic overview of sexual and gender diversity in neuroscience: Past, present, and future. Frontiers in Human Neuroscience, 18, 1414396. https://doi.org/10.3389/fnhum.2024.1414396
 
 ### Podcasts
 * [The Brain Scientist](https://podcasts.apple.com/us/podcast/the-brain-scientist/id1747569482)
+* [Brain Inspired](https://braininspired.co/)
 
 ### Videos
+
+### Others
+* [The Transmitter](https://www.thetransmitter.org/)
