@@ -20,6 +20,7 @@ Organizations and memberships
   * Cognitive Neuroscience Society ([CNS](https://www.cogneurosociety.org/)).
   * Society for Neuroscience ([SfN](https://www.sfn.org/)).
   * Federation of European Neuroscience Societies ([FENS](https://www.fens.org/)).
+
 Some of these organizations have special membership prizes for individuals from developing countries and lower incomes. The INCF, CSS and OCNS can request membership fee waivers given that paying the fee would signify an uncoverable financial burden.
 
 #### Inclusion-focused
@@ -54,7 +55,7 @@ Books:
   3. Trappenberg, T. (2023). _Fundamentals of Computational Neuroscience_ (3rd ed). Oxford Academic, [https://doi.org/10.1093/oso/9780192869364.001.0001](https://doi.org/10.1093/oso/9780192869364.001.0001)
 
 SciComm books:
-* Lindsay, G. (2021). Models of the Mind: How Physics, Engineering and Mathematics Have Shaped Our Understanding of the Brain. Bloomsbury.
+* Lindsay, G. (2021). Models of the Mind: How Physics, Engineering and Mathematics Have Shaped Our Understanding of the Brain. Bloomsbury. https://www.bloomsbury.com/us/models-of-the-mind-9781472966438/
 
 Papers:
   1. Machlovi, S., Pero, A., Ng, S., Zhong, M., & Cai, D. (2020). Women in neuroscience: Where are we in 2019? Journal of Neuroscience Research, 99(1), 9–12. https://doi.org/10.1002/jnr.24570
