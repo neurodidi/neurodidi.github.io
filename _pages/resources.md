@@ -13,7 +13,7 @@ I have gathered some resources I found as I looked for learning opportunities, p
 
 Organizations and memberships
 ===
-#### General
+### General
   * International Neuroinformatics Coordinating Facility ([INCF](https://www.incf.org/)).
   * Cognitive Science Organization ([CSS](https://cognitivesciencesociety.org/)).
   * Organization for Computational Neuroscience ([OCNS](https://www.cnsorg.org/)).
@@ -23,7 +23,7 @@ Organizations and memberships
 
 Some of these organizations have special membership prizes for individuals from developing countries and lower incomes. The INCF, CSS and OCNS can request membership fee waivers given that paying the fee would signify an uncoverable financial burden.
 
-#### Inclusion-focused
+### Inclusion-focused
   * Women in Neuroscience ([WiN](https://neurowomen.org/)).
 
 
@@ -48,19 +48,19 @@ Following people inside academia can help you understand what it is about. I sug
 * Ludmila Kucikova, MScR [@computational_neuroscientist](https://www.instagram.com/computational_neuroscientist/) at IG.
 
 Books, papers and other sources of fun!
-======
-Books:
+===
+### Books
   1. Friedenberg, J., Silverman, G., & Spivey, M. J. (2021). _Cognitive Science: An Introduction to the Study of Mind_ (4th ed.). Sage Publications, Incorporated.
   2. Sun, R. (Ed.). (2023). _The Cambridge Handbook of Computational Cognitive Sciences_ (2nd ed.). Cambridge University Press.
   3. Trappenberg, T. (2023). _Fundamentals of Computational Neuroscience_ (3rd ed). Oxford Academic, [https://doi.org/10.1093/oso/9780192869364.001.0001](https://doi.org/10.1093/oso/9780192869364.001.0001)
 
-SciComm books:
+### SciComm books
 * Lindsay, G. (2021). Models of the Mind: How Physics, Engineering and Mathematics Have Shaped Our Understanding of the Brain. Bloomsbury. https://www.bloomsbury.com/us/models-of-the-mind-9781472966438/
 
-Papers:
+### Papers
   1. Machlovi, S., Pero, A., Ng, S., Zhong, M., & Cai, D. (2020). Women in neuroscience: Where are we in 2019? Journal of Neuroscience Research, 99(1), 9–12. https://doi.org/10.1002/jnr.24570
 
-Podcasts:
+### Podcasts
 * [The Brain Scientist](https://podcasts.apple.com/us/podcast/the-brain-scientist/id1747569482)
 
-Videos:
+### Videos
