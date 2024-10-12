@@ -56,6 +56,7 @@ Books, papers and other sources of fun and reflection!
 
 ### SciComm books
 * Lindsay, G. (2021). Models of the Mind: How Physics, Engineering and Mathematics Have Shaped Our Understanding of the Brain. Bloomsbury. https://www.bloomsbury.com/us/models-of-the-mind-9781472966438/
+* Marcus, G., & Freeman, J. (Eds.). (2015). The Future of the Brain: Essays by the World’s Leading Neuroscientists. Princeton University Press. https://doi.org/10.2307/j.ctt9qh0x7
 * Narayanan, A., & Kapoor, S. (2024). AI Snake Oil: What Artificial Intelligence Can Do, What It Can’t, and How to Tell the Difference. Princeton University Press.
 
 ### Papers
