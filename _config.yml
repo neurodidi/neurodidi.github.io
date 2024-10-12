@@ -129,6 +129,7 @@ lunr:
 # theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark"
+# "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # SEO Related
 google_site_verification : "uyPzB2RdmgcIpWW5htco4tTb1OsR-d21eYmWdrqOyz4"
