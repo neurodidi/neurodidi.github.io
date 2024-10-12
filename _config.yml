@@ -127,6 +127,7 @@ lunr:
   search_full_content: true
 
 # theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark"
 
 # SEO Related
