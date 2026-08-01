@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-BSc at [UCAB](https://www.ucab.edu.ve/)'s School of Psychology.
+BSc in Psychology at [UCAB](https://www.ucab.edu.ve/)'s School of Psychology.
 
 AI/ML professor at UCAB's [School of Computing Engineering](https://ingenieria.ucab.edu.ve/informatica/).
 
-MSc Student at the [Centre for Modelling and Simulation](https://sites.google.com/ula.ve/ingenieria-pgmsim/inicio?authuser=0) program in Systems Modelling and Simulation ([ULA](https://www.ula.ve))
+MSc Student in Systems Modelling and Simulation at the [Centre for Modelling and Simulation](https://sites.google.com/ula.ve/ingenieria-pgmsim/inicio?authuser=0) of ([ULA](https://www.ula.ve))
 
 Interested in computational cognitive neuroscience, computational psychiatry and NeuroAI of (episodic) memory. Open to collaborations outside my research interests upon discussion.
 
