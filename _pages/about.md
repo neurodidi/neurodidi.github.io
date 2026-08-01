@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm an aspiring computational cognitive neuroscientist. During my undergrad, I was especially intrigued by theories of memory, intelligence and language. In the middle of the pandemic, I found out you could develop computational models of cognitive phenomena while accounting for their neural correlates. This motivated me to explore fields such as computational cognitive neuroscience, computational cognitive science and Machine Learning. 
+BSc at [UCAB](https://www.ucab.edu.ve/)'s School of Psychology.
+AI/ML professor at UCAB's [School of Computing Engineering](https://ingenieria.ucab.edu.ve/informatica/).
+MSc Student at the [Centre for Modelling and Simulation](https://sites.google.com/ula.ve/ingenieria-pgmsim/inicio?authuser=0) program in Systems Modelling and Simulation ([ULA](https://www.ula.ve))
 
-I'm currently on the lookout for research assistant positions (remote position included). In the meanwhile, I work in industry and volunteer to help in courses such as Psychology of Memory and Intelligence, and Cognitive Neuroscience and Neuropsychology, at [UCAB](https://www.ucab.edu.ve/)'s  School of Psychology, where I studied for my BSc in Psychology. I'm actively working on independent projects to develop skills for future research positions and grad school programs.
+Interested in computational cognitive neuroscience, computational psychiatry and NeuroAI of (episodic) memory. Open to collaborations outside my research interests upon discussion.
 
 Feel free to contact me to collaborate or connect.
 <br>
