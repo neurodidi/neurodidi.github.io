@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 <br/>
-* English CV: updated for <a href="/files/Jul26_Didi_Academic_CV.pdf" target="_blank">Jul 2026</a>
+* English CV: updated for <a href="/files/Oct26_Didi_Academic_CV.pdf" target="_blank">Oct 2026</a>
 <br/>
 <br/>
 <br/>
